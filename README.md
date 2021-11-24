@@ -14,6 +14,6 @@ Dalam project ini terdapat beberapa contoh Machine Learning dengan bahasa Python
 - Neural Network (Perceptron)
 
 
-```http
+`
 Modul akan bertambah seiring waktu
-```
+`
