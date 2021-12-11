@@ -14,6 +14,11 @@ Dalam project ini terdapat beberapa contoh Machine Learning dengan bahasa Python
 
 ### Supervised Learning
 - K-Means (Clustering)
+- Agglomerative Hierarchical Clustering
 
+### Reinforcement Learning
+- Q Learning
 
-`Modul akan bertambah seiring waktu`
+### Evaluasi Model
+- Klasifikasi (Akurasi, Presisi, Recall, F1-Score)
+- Regressi (MSE, RMSE, MAE)
